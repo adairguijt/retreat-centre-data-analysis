@@ -1,4 +1,4 @@
-# 🇪🇸 Yoga Retreat Market Analysis in Spain
+# Yoga Retreat Market Analysis in Spain
 
 ## Data-Driven Business Proposal for Sadhanalaya Ashram
 
